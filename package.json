@@ -1,7 +1,12 @@
 {
-  "name": "merge",
-  "version": "1.0.1",
-  "description": "merge objects",
+  "name": "yields-merge",
+  "description": "merge two objects",
+  "version": "1.0.0",
+  "keywords": [
+    "merge",
+    "inherit",
+    "extend"
+  ],
   "dependencies": {},
-  "files": ["index.js"]
+  "license": "MIT"
 }
